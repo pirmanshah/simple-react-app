@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/simple-react-app/static/css/main.5c23cfdf.chunk.css",
-    "main.js": "/simple-react-app/static/js/main.42d45854.chunk.js",
-    "main.js.map": "/simple-react-app/static/js/main.42d45854.chunk.js.map",
+    "main.js": "/simple-react-app/static/js/main.1d043b5a.chunk.js",
+    "main.js.map": "/simple-react-app/static/js/main.1d043b5a.chunk.js.map",
     "runtime-main.js": "/simple-react-app/static/js/runtime-main.23d2fa6b.js",
     "runtime-main.js.map": "/simple-react-app/static/js/runtime-main.23d2fa6b.js.map",
     "static/css/2.786ae0dd.chunk.css": "/simple-react-app/static/css/2.786ae0dd.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.786ae0dd.chunk.css.map": "/simple-react-app/static/css/2.786ae0dd.chunk.css.map",
     "static/css/main.5c23cfdf.chunk.css.map": "/simple-react-app/static/css/main.5c23cfdf.chunk.css.map",
     "static/js/2.d04d8f92.chunk.js.LICENSE.txt": "/simple-react-app/static/js/2.d04d8f92.chunk.js.LICENSE.txt",
+    "static/media/cats.3dedd783.png": "/simple-react-app/static/media/cats.3dedd783.png",
     "static/media/image-1.1214b252.png": "/simple-react-app/static/media/image-1.1214b252.png",
     "static/media/image-2.b0e6308d.png": "/simple-react-app/static/media/image-2.b0e6308d.png",
     "static/media/image-3.bf823a39.png": "/simple-react-app/static/media/image-3.bf823a39.png"
@@ -23,6 +24,6 @@
     "static/css/2.786ae0dd.chunk.css",
     "static/js/2.d04d8f92.chunk.js",
     "static/css/main.5c23cfdf.chunk.css",
-    "static/js/main.42d45854.chunk.js"
+    "static/js/main.1d043b5a.chunk.js"
   ]
 }
