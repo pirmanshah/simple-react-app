@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/simple-react-app/static/css/main.685bee3a.chunk.css",
-    "main.js": "/simple-react-app/static/js/main.f84cf85f.chunk.js",
-    "main.js.map": "/simple-react-app/static/js/main.f84cf85f.chunk.js.map",
-    "runtime-main.js": "/simple-react-app/static/js/runtime-main.1d627f54.js",
-    "runtime-main.js.map": "/simple-react-app/static/js/runtime-main.1d627f54.js.map",
-    "static/js/2.4cdc2bb6.chunk.js": "/simple-react-app/static/js/2.4cdc2bb6.chunk.js",
-    "static/js/2.4cdc2bb6.chunk.js.map": "/simple-react-app/static/js/2.4cdc2bb6.chunk.js.map",
-    "static/js/3.9e187f59.chunk.js": "/simple-react-app/static/js/3.9e187f59.chunk.js",
-    "static/js/3.9e187f59.chunk.js.map": "/simple-react-app/static/js/3.9e187f59.chunk.js.map",
+    "main.css": "/simple-react-app/static/css/main.b8cd9b94.chunk.css",
+    "main.js": "/simple-react-app/static/js/main.e2cdee19.chunk.js",
+    "main.js.map": "/simple-react-app/static/js/main.e2cdee19.chunk.js.map",
+    "runtime-main.js": "/simple-react-app/static/js/runtime-main.f11b5452.js",
+    "runtime-main.js.map": "/simple-react-app/static/js/runtime-main.f11b5452.js.map",
+    "static/js/2.02444071.chunk.js": "/simple-react-app/static/js/2.02444071.chunk.js",
+    "static/js/2.02444071.chunk.js.map": "/simple-react-app/static/js/2.02444071.chunk.js.map",
+    "static/js/3.5782e24e.chunk.js": "/simple-react-app/static/js/3.5782e24e.chunk.js",
+    "static/js/3.5782e24e.chunk.js.map": "/simple-react-app/static/js/3.5782e24e.chunk.js.map",
     "index.html": "/simple-react-app/index.html",
-    "static/css/main.685bee3a.chunk.css.map": "/simple-react-app/static/css/main.685bee3a.chunk.css.map",
-    "static/js/2.4cdc2bb6.chunk.js.LICENSE.txt": "/simple-react-app/static/js/2.4cdc2bb6.chunk.js.LICENSE.txt",
+    "static/css/main.b8cd9b94.chunk.css.map": "/simple-react-app/static/css/main.b8cd9b94.chunk.css.map",
+    "static/js/2.02444071.chunk.js.LICENSE.txt": "/simple-react-app/static/js/2.02444071.chunk.js.LICENSE.txt",
     "static/media/image-1.1214b252.png": "/simple-react-app/static/media/image-1.1214b252.png",
     "static/media/image-2.b0e6308d.png": "/simple-react-app/static/media/image-2.b0e6308d.png",
     "static/media/image-3.bf823a39.png": "/simple-react-app/static/media/image-3.bf823a39.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d627f54.js",
-    "static/js/2.4cdc2bb6.chunk.js",
-    "static/css/main.685bee3a.chunk.css",
-    "static/js/main.f84cf85f.chunk.js"
+    "static/js/runtime-main.f11b5452.js",
+    "static/js/2.02444071.chunk.js",
+    "static/css/main.b8cd9b94.chunk.css",
+    "static/js/main.e2cdee19.chunk.js"
   ]
 }
